@@ -4,7 +4,9 @@ In this project, a gun detector will be implemented by training a pretrained yol
 ## Stages
 ### Training
 In this stage, a custom [dataset](https://universe.roboflow.com/phillip-lavrador/70k-guns/dataset/5) for guns will be used to fine-tune a pretrained yolov8n model.
-### Validation and Testing
-In this stage, a custom model will be tested and validated for multiple test videos.
+### Validation 
+In this stage, a custom model will be validated on test set of images.
+### Testing
+In this stage, a model will be tested on multiple test videos.
 ### Deployment
 In this stage, a custom model will be deployed on jetson orin nano using deepstream
