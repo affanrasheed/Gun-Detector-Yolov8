@@ -16,16 +16,16 @@ In this stage, a pretrained yolov8n model is retrained using transfer learning m
 ## Final Model Results
 ### Validation Set Results
 #### Actual Labels
-![actual labels](/results/val_batch2_labels.jpg)
+![actual labels](results/val_batch2_labels.jpg)
 #### Predicted Labels 
-![predicted](/results/val_batch2_pred.jpg)
+![predicted](results/val_batch2_pred.jpg)
 
 ### Training Result 
-![training result](/results/results.png)
+![training result](results/results.png)
 ### Confusion Matrix
-![confusion matrix](/results/confusion_matrix.png)
+![confusion matrix](results/confusion_matrix.png)
 ### F1 Curve
-![F1 Curve](/results/F1_curve.png)
+![F1 Curve](results/F1_curve.png)
 
 ## Model Testing
 ### Testing Result on High Resolution Videos
