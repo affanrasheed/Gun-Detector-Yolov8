@@ -21,8 +21,9 @@ cudadec-memtype=0
 
 [sink0]
 enable=1
-type=2
+type=3
 sync=0
+output-file=/home/orin-nano/Downloads/output_fp16.mp4
 gpu-id=0
 nvbuf-memory-type=0
 
